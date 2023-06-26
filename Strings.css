@@ -1,0 +1,68 @@
+h1
+{
+    color: coral;
+    text-align: center
+}
+h3
+{
+    text-align: right;
+}
+body
+{
+    background-color: darkgreen;
+    background-image: "DARTH VADER.jpg";
+} 
+h2
+{
+    color: coral;
+}
+p
+{
+    text-align: center;
+}
+button
+{
+    padding: 16px,30px;
+    margin: 12px,6px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: coral;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    cursor:pointer;
+    background-color: chocolate;
+    height: 35px;
+    width: 80px;
+}
+
+nav ul
+{
+    float: center;
+    margin-right: 20px;
+    text-align: center;
+}
+nav ul li
+{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a
+{
+    color:goldenrod;
+    font-size: 20px;
+    padding: 7PX 13px;
+    border-radius: 3px;
+    text-transform: lowercase;
+    font-weight: bold;
+}
+a.active,
+a:hover
+{
+    background:blue;
+    transition: .5s;
+}
+
+

@@ -1,0 +1,31 @@
+h1
+{
+    text-align: center;
+    font-style: oblique;
+    color: chartreuse;
+}
+body
+{
+    background-color: blue;
+}
+h3
+{
+    color: chartreuse;
+}
+button
+{
+    padding: 160px, 100px;
+    border-color: blue;
+    border-style:inset;
+    border-width: 5px;
+    text-align: center;
+    cursor: crosshair;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    font-size:large;
+    background-image: radial-gradient;
+    background-color: fuchsia;
+}
+
+

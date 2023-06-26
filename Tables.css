@@ -1,0 +1,56 @@
+
+h1
+{
+    text-align: center;
+    color:rgb(247, 6, 6)
+}
+h2
+{
+    text-align: center;
+    color:rgb(247, 6, 6)
+}
+
+footer
+{
+    text-align: center;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
+nav ul
+{
+    float: center;
+    margin-right: 20px;
+    text-align: center;
+}
+nav ul li
+{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a
+{
+    color:goldenrod;
+    font-size: 20px;
+    padding: 7PX 13px;
+    border-radius: 3px;
+    text-transform: lowercase;
+    font-weight: bold;
+}
+a.active,
+a:hover
+{
+    background:blue;
+    transition: .5s;
+}
+
+body
+{
+    background-image:url(OIP\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

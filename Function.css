@@ -1,0 +1,42 @@
+h1
+{
+    text-align: center;
+    color:greenyellow;
+    background-color: black;
+    text-decoration: dotted;
+}
+
+body
+{
+ background-color: crimson;
+ background-image:url(Gamer.jpg)
+ 
+}
+
+button
+{
+    
+        align-items: center;
+        padding: 16px, 30px;
+        margin: 12px, 6px;
+        border-radius: 5px;
+        border-width: 5px; 
+        border-color: black;
+        border-style: double;
+        text-align: center;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        color: black;
+        cursor: pointer;
+        background-color:greenyellow;
+        height:  45px;
+        width: 75px;
+        
+}
+
+div
+{
+    color: greenyellow;
+    text-align: center;
+}
